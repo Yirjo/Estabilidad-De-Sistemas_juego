@@ -31,7 +31,7 @@ let zoneHeight = 150;
 
 // Oscilación del setpoint
 let oscillationTime = 0;
-let oscillationSpeed = 0.025;
+let oscillationSpeed = 0.010;
 let oscillationAmplitude = 200;
 
 // Estado
